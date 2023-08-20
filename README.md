@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47soh0lcxi6jf1ubrff70k7og1j0dbmwuxchlsi4wj&ep=v1_gifs_search&rid=giphy.gif&ct=g”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bala-sai-teja-singh&label=Profile%20views&color=0e75b6&style=flat" alt="bala-sai-teja-singh" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web development**
