@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **b.balasaiteja2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PGTw03HYhjKGuiONogDJW9MnbFhvlVk9/view?usp=drive_link](https://drive.google.com/file/d/1PGTw03HYhjKGuiONogDJW9MnbFhvlVk9/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iwPnXiYLxw_Po69KCdTrwu2MRx2EFKiZ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny 😅**
 
