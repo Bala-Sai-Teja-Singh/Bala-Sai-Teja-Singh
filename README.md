@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at [https://bala-sai-teja-singh.github.io/PortFolio](https://bala-sai-teja-singh.github.io/PortFolio)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **b.balasaiteja2003@gmail.com**
